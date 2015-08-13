@@ -1,0 +1,32 @@
+{
+  "name": "string-multiline",
+  "version": "0.1.0",
+  "description": "Real support for String Multiline vars on NodeJS by reading the vars from a external file",
+  "main": "string-multiline.js",
+  "scripts": {
+    "test": "istanbul cover node_modules/jasmine-node/lib/jasmine-node/cli.js tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-aranda/nodejs-string-multiline.git"
+  },
+  "keywords": [
+    "string",
+    "multiline",
+    "string-multiline"
+  ],
+  "author": "Daniel Aranda <hello@danielarandaochoa.com> (http://danielarandaochoa.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-aranda/nodejs-string-multiline/issues"
+  },
+  "homepage": "https://github.com/daniel-aranda/nodejs-string-multiline#readme",
+  "dependencies": {
+    "fs": "0.0.2"
+  },
+  "devDependencies": {
+      "istanbul": "^0.3.17",
+      "jasmine-core": "^2.3.4",
+      "jasmine-node": "^1.14.5"
+  }
+}

@@ -1,0 +1,23 @@
+<<<my_string
+This is a large string
+with multiline support
+yeah!
+>>>
+
+<<<other_string
+This is a large string
+with multiline support
+yeah!
+>>>
+
+<<<yet_another_string
+Wow
+This is
+Fantastic
+>>>
+
+<<<Some_SQL
+SELECT
+    *
+FROM my_table
+>>>
