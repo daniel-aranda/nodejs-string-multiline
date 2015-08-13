@@ -1,6 +1,6 @@
 {
   "name": "string-multiline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Real support for String Multiline vars on NodeJS by reading the vars from a external file",
   "main": "string-multiline.js",
   "scripts": {
