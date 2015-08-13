@@ -18,6 +18,7 @@ SELECT
 FROM my_table
 WHERE
     field = 'true';
+>>>
 ```
 
 And use it as:
