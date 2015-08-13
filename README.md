@@ -36,8 +36,6 @@ npm install string-multiline
 
 ###Real World example:
 ```
-mkdir testing
-cd testing
 mkdir data
 cd data
 touch somedata.dat //below content of somedata.dat
