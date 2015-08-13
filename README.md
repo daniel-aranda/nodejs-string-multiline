@@ -35,7 +35,6 @@ npm install string-multiline
 
 
 ###Real World example:
-##Bootstrap project
 ```
 mkdir testing
 cd testing
