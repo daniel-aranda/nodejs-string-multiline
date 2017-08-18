@@ -1,3 +1,10 @@
+# UPDATE: with ECMA6 this is no longer needed. You could do this if you are using ECMA 6:
+
+```
+let a = `hello
+multiline`;
+```
+
 # NodeJS String Multiline
 NodeJS smooth support to multiline vars. Consider that multiline string vars
 are commonly SQL queries, test strings, etc, this library load them from a
